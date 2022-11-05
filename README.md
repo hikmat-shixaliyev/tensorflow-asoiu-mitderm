@@ -1,2 +1,2 @@
-# tensorflow-lesson-project
-ASOIU Task
+# Midterm_Tensorflow
+My answers for AI lesson midterm.
